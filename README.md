@@ -103,6 +103,9 @@ avoir le detail sur les produits et clients, on utilise OpenFeign qui permet de 
 ### Démarrage Kafka Server : 
 ![kafka serrr](https://user-images.githubusercontent.com/105390951/219749617-98e521cc-a32c-429f-97f1-437b8128b9c5.PNG)
 
+![kafka2](https://user-images.githubusercontent.com/105390951/219798517-e8afa556-80a8-4b5e-9ef4-06f3bc15a0a1.png)
+
+![213007070-8da5c606-97f7-4acc-b3d7-5723c5514bd4 (2)](https://user-images.githubusercontent.com/105390951/219798635-e726ac08-b4ca-4662-ac58-12bebb96dfba.png)
 
  Réalisé par : Lemsyeh Maryam 
  Encadré par : Mr.Youssfi Mohamed
