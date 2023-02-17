@@ -107,5 +107,7 @@ avoir le detail sur les produits et clients, on utilise OpenFeign qui permet de 
 
 ![213007070-8da5c606-97f7-4acc-b3d7-5723c5514bd4 (2)](https://user-images.githubusercontent.com/105390951/219798635-e726ac08-b4ca-4662-ac58-12bebb96dfba.png)
 
+![analyse kafka](https://user-images.githubusercontent.com/105390951/219801707-baae283e-70bc-4c4d-b302-96ec420295e2.png)
+
  Réalisé par : Lemsyeh Maryam 
  Encadré par : Mr.Youssfi Mohamed
