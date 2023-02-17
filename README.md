@@ -88,7 +88,7 @@ avoir le detail sur les produits et clients, on utilise OpenFeign qui permet de 
 
 
 ## Créer un client web Angular (Consumer, product, bill) 
-### Consumer : 
+### Costumer : 
 ![an](https://user-images.githubusercontent.com/105390951/219729594-dcbef984-f0dd-4f3f-80d4-6e880db8a2ac.png)
 ### Product : 
 ![angular prod](https://user-images.githubusercontent.com/105390951/219740490-4cb675b2-3e77-40a5-8a2a-39558e1db351.PNG)
