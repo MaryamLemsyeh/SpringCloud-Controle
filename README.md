@@ -96,7 +96,12 @@ avoir le detail sur les produits et clients, on utilise OpenFeign qui permet de 
 ### Bill : 
 ![bill](https://user-images.githubusercontent.com/105390951/219739372-053db488-aa38-4785-bfa2-9921b8f341b2.png)
 
-## Kafka Broker integration : 
+## Intégration du broker Kafka : 
+### Démarrage Zookeeper : 
+![kafka ser](https://user-images.githubusercontent.com/105390951/219749735-37bdb29b-d211-4c1c-8641-f585467cad56.PNG)
+
+### Démarrage Kafka Server : 
+![kafka serrr](https://user-images.githubusercontent.com/105390951/219749617-98e521cc-a32c-429f-97f1-437b8128b9c5.PNG)
 
 
  Réalisé par : Lemsyeh Maryam 
