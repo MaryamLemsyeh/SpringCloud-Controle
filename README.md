@@ -43,7 +43,7 @@ Angular
 
 # Démarrer le projet :
 
--Clôner le projet sur la repositoy : https://github.com/MaryamLemsyeh/Architacture-MS---Spring-Cloud
+-Clôner le projet sur la repositoy : https://github.com/MaryamLemsyeh/SpringCloud-Controle
 -Démarrer les applications.
 -Démarrer l'outil d'enregistrement Eureka Discovery Client.
 
